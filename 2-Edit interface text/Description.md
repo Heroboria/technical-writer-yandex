@@ -1,7 +1,7 @@
 # Задание 2
 
 ## Исходный интерфейс
-![Исходный интерфейс](https://github.com/Heroboria/Yandextest/blob/main/2-Edit%20interface%20text/source.png?raw=true)
+![Исходный интерфейс](https://github.com/Heroboria/technical-writer-yandex/blob/main/2-Edit%20interface%20text/source.png?raw=true)
 
 ## Предлагаемые изменения
 
@@ -13,4 +13,4 @@
 
 ## Результат
 
-![Результат](https://github.com/Heroboria/Yandextest/blob/main/2-Edit%20interface%20text/Result.png?raw=true)
+![Результат](https://github.com/Heroboria/technical-writer-yandex/blob/main/2-Edit%20interface%20text/Result.png?raw=true)
