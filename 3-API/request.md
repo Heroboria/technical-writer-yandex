@@ -1,0 +1,1 @@
+`curl -o "response.xml" -L "https://dictionary.yandex.net/api/v1/dicservice/lookup?key=dict.1.1.20230214T174458Z.0c2a90ee147bb2ad.aedcabb37dfa2ec72b09e389bb5a883652bc8dc7&lang=en-ru&text=sky&ui=ru"`
