@@ -13,6 +13,6 @@
 
 ### Решение
 
-- [Задание 1](https://github.com/Heroboria/Yandextest/blob/main/1-Grouping%20profiles/Grouping%20profiles.md)
-- [Задание 2](https://github.com/Heroboria/Yandextest/blob/main/2-Edit%20interface%20text/Description.md)
-- [Задание 3](https://github.com/Heroboria/Yandextest/tree/main/3-API)
+- [Задание 1](https://github.com/Heroboria/technical-writer-yandex/blob/main/1-Grouping%20profiles/Grouping%20profiles.md)
+- [Задание 2](https://github.com/Heroboria/technical-writer-yandex/blob/main/2-Edit%20interface%20text/Description.md)
+- [Задание 3](https://github.com/Heroboria/technical-writer-yandex/tree/main/3-API)
